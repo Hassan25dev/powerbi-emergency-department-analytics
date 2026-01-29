@@ -16,6 +16,18 @@ The dashboard transforms raw admissions data into operational insights to suppor
 
 ---
 
+## 📚 Project Source & Inspiration
+
+This project is inspired by and adapted from the following open-source Power BI sample:
+
+- Original repository: OBaz-DA4U – Power BI Emergency Admissions Sample
+Source: https://github.com/datavitalyzer/OBaz-DA4U-PowerBI-ReportSample-Emergency-Admissions
+ 
+The goal of this work was not to reproduce the dashboard, but to rebuild and reinterpret it with a strong focus on data modeling, ETL clarity, and business-oriented KPIs.
+
+
+---
+
 ## 🧠 Concepts Covered
 
 This project demonstrates core Business Intelligence and analytics concepts commonly used in real-world decision-support systems:
