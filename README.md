@@ -67,7 +67,7 @@ powerbi-emergency-department-analytics/
 
 ## 🧩  Example Insights
 
-```
+
  +  Identification of peak hours and high-pressure periods 
  +  Detection of bottlenecks in patient flow  
  +  Comparison of service efficiency based on waiting times
